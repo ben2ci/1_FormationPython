@@ -8,7 +8,7 @@
 
 ## Etape 1: depuis l'ordinateur Bureau
 - <span style="color:yellow;">***git init***<span/>
-- git add README.md
+- git add .
 - <span style="color:yellow;">***git commit -m "first commit"***<span/>
 - git branch -M main
 - <span style="color:yellow;">***git remote add origin https://github.com/ben2ci/1_FormationPython.git***<span/>
