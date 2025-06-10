@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\PYTHONS\1_FormationPython\env
+set VIRTUAL_ENV=D:\Python\1_FormationPython\env
 
 if not defined PROMPT set PROMPT=$P$G
 

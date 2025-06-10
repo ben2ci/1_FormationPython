@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\PYTHONS\1_FormationPython\env"
+VIRTUAL_ENV="D:\Python\1_FormationPython\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

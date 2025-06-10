@@ -8,14 +8,15 @@
 
 ## Etape 1: depuis l'ordinateur Bureau
 - <span style="color:yellow;">***git init***<span/>
-- git add .
+- ***git add .***
 - <span style="color:yellow;">***git commit -m "first commit"***<span/>
-- git branch -M main
+- ***git branch -M main***
 - <span style="color:yellow;">***git remote add origin https://github.com/ben2ci/1_FormationPython.git***<span/>
-- git push -u origin main
+- ***git push -u origin main***
 
 
 ## Etape 2: depuis la maison
+- ***pip install -r requirements.txt (en ayant fait -> pip freeze > requirements.txt)***
 - <span style="color:yellow;">***git clone https://github.com/ben2ci/1_FormationPython.git***<span/>
 
 ## Etape 2.1: après des modifications à la maison
@@ -35,7 +36,7 @@
 ## Etape 5: de retour à la maison
 - <span style="color:yellow;">***git pull origin main***<span/>
 
-🛠️ Ensuite, tu peux travailler comme d’habitude
+***🛠️ Ensuite, tu peux travailler comme d’habitude***
 - <span style="color:yellow;">***git add .***<span/>
 - ***git commit -m "Modifications du soir à la maison"***
 - <span style="color:yellow;">***git push origin main***<span/>
