@@ -1,0 +1,31 @@
+{
+  "utilisateur": {
+    "nom": "Alice",
+    "âge": 28,
+    "email": "alice@example.com",
+    "actif": true,
+    "adresse": {
+      "rue": "123 Rue Principale",
+      "ville": "Paris",
+      "codePostal": "75001"
+    }
+  },
+  "commandes": [
+    {
+      "id": 1025,
+      "produit": "Livre Python",
+      "quantité": 1,
+      "prix": 35.99
+    },
+    {
+      "id": 1026,
+      "produit": "Souris sans fil",
+      "quantité": 2,
+      "prix": 24.50
+    }
+  ],
+  "métadonnées": {
+    "crééLe": "2023-05-15",
+    "dernièreMiseÀJour": "2023-06-20"
+  }
+}
