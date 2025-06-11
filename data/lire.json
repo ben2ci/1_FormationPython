@@ -1,15 +1,50 @@
 {
-  "utilisateur": {
-    "nom": "Alice",
-    "âge": 28,
-    "email": "alice@example.com",
-    "actif": true,
-    "adresse": {
-      "rue": "123 Rue Principale",
-      "ville": "Paris",
-      "codePostal": "75001"
+  "utilisateurs": [
+    {
+      "nom": "Alice",
+      "âge": 28,
+      "email": "alice@example.com",
+      "actif": true,
+      "adresse": {
+        "rue": "123 Rue Principale",
+        "ville": "Paris",
+        "codePostal": "75001"
+      }
+    },
+    {
+      "nom": "Ben",
+      "âge": 32,
+      "email": "ben@example.com",
+      "actif": true,
+      "adresse": {
+        "rue": "123 Rue Principale",
+        "ville": "Paris",
+        "codePostal": "75001"
+      }
+    },
+    {
+      "nom": "Idriss",
+      "âge": 20,
+      "email": "idriss@example.com",
+      "actif": true,
+      "adresse": {
+        "rue": "123 Rue Principale",
+        "ville": "Paris",
+        "codePostal": "75001"
+      }
+    },
+    {
+      "nom": "Xavier",
+      "âge": 42,
+      "email": "xavier@example.com",
+      "actif": true,
+      "adresse": {
+        "rue": "45 Avenue des Champs",
+        "ville": "Lyon",
+        "codePostal": "69001"
+      }
     }
-  },
+  ],
   "commandes": [
     {
       "id": 1025,
@@ -21,7 +56,7 @@
       "id": 1026,
       "produit": "Souris sans fil",
       "quantité": 2,
-      "prix": 24.50
+      "prix": 24.5
     }
   ],
   "métadonnées": {
