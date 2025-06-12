@@ -1,0 +1,5 @@
+2025-06-12 15:45:47,180 - root - DEBUG - La fonction a bien été exécutée
+2025-06-12 15:45:47,180 - root - INFO - Message d'information générale
+2025-06-12 15:45:47,180 - root - WARNING - Attention
+2025-06-12 15:45:47,180 - root - ERROR - Une erreur est arrivée
+2025-06-12 15:45:47,180 - root - CRITICAL - Erreur critique

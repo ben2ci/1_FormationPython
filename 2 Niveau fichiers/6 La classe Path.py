@@ -11,7 +11,7 @@ print(p.parent)
 
 # Concatener des chemins
 p1 = Path.cwd().parent.parent
-p2 = p1 / "Document" / "test.py"
+p2 = p1 / "Document" / "libs.py"
 print(p2)
 
 p3 = p1.joinpath("documents", "tests.py")

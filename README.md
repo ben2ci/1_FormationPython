@@ -40,3 +40,10 @@
 - <span style="color:yellow;">***git add .***<span/>
 - ***git commit -m "Modifications du soir à la maison"***
 - <span style="color:yellow;">***git push origin main***<span/>
+
+
+## Commande pour inatller un pakcage
+- <span style="color:yellow;">***py -3.7 -m pip install Faker***<span/>
+
+## Commande pour créer un environememnt virtuel
+- <span style="color:yellow;">***py -3.7 -m venv env***<span/>
