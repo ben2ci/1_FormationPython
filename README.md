@@ -27,6 +27,7 @@
 
 
 ## Etape 4: de retour au bureau
+- ***git status***
 - <span style="color:yellow;">***git add .***<span/>
 - ***git commit -m "Description des modifications faites au bureau"***
 - <span style="color:yellow;">***git pull origin main***<span/>
