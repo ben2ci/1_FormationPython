@@ -48,3 +48,7 @@
 
 ## Commande pour créer un environememnt virtuel
 - <span style="color:yellow;">***py -3.7 -m venv env***<span/>
+
+
+## Mise à jour de PIP
+- <span style="color:yellow;">***pip3.7 install --upgrade pip***<span/>
